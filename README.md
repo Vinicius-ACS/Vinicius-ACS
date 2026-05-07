@@ -28,7 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"/>
-  
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=python"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=postgresql"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=github"/>
                     
 </p>
+
+
 
